@@ -14,13 +14,14 @@
 
 **LoginPage**
 
-    https://drive.google.com/file/d/1brdHIsbsKxixQTyeoEZ_6nRB89KOW4DA/view?usp=share_link
-    https://drive.google.com/file/d/1TaMC3vl002HPGTdflCdGToODwuBUUp0k/view?usp=share_link
+![Example Image](https://drive.google.com/uc?id=1brdHIsbsKxixQTyeoEZ_6nRB89KOW4DA)
+![Example Image](https://drive.google.com/uc?id=1TaMC3vl002HPGTdflCdGToODwuBUUp0k)
 
 **Product List Page**
 
-    https://drive.google.com/file/d/1iHOrJSo3HOg4YBe_ngR-2GeHZm6naa6A/view?usp=sharing
-
+![Example Image](https://drive.google.com/uc?id=1iHOrJSo3HOg4YBe_ngR-2GeHZm6naa6A)
+    
 **Product Detail Page**
 
-    https://drive.google.com/file/d/1zfx6mDV4mn1Po61UzekDyyc6R4u715M9/view?usp=share_link
+![Example Image](https://drive.google.com/uc?id=1zfx6mDV4mn1Po61UzekDyyc6R4u715M9)
+    
